@@ -880,7 +880,7 @@ a {
     /* W3C */
     filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#cc000000', endColorstr='#66000000', GradientType=0);
     /* IE6-9 */
-    height: 725px;
+    height: 750px;
     background-attachment: fixed;
 }
 
