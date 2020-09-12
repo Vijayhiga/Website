@@ -24,6 +24,8 @@ body {
     font-weight: normal;
 }
 
+
+
 button:focus,
 .btn:focus {
     outline: 0 !important;
@@ -374,7 +376,7 @@ b {
   display:block;
   position:absolute;
   color:white;
-  top:0;
+  top: -3.5cm;
   bottom:0;
   left:0;
   right:0;
@@ -878,7 +880,7 @@ a {
     /* W3C */
     filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#cc000000', endColorstr='#66000000', GradientType=0);
     /* IE6-9 */
-    height: 1000px;
+    height: 725px;
     background-attachment: fixed;
 }
 
@@ -933,7 +935,7 @@ a {
         padding: 45% 0 5% 0;
     }
     a.fa.fa-angle-down {
-        margin-top: 80px !important;
+        margin-top: 75px !important;
     }
 
     .no-mobile
@@ -947,7 +949,7 @@ a.fa.fa-angle-down {
     padding: 10px 14px;
     color: #aaa;
     font-size: 50px;
-    margin-top: 50px;
+    margin-top: -10px;
     transition: all 0.5s;
 }
 
